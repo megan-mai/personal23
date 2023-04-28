@@ -60,7 +60,7 @@ a.site = {
 	sheets: null,
 	startTabletop: function(){
 		Tabletop.init({
-			Papa.parse('https://docs.google.com/spreadsheets/d/e/2PACX-1vRB4E_6RnpLP1wWMjqcwsUvotNATB8Np3OntlXb7066ULcAHI9oqqRhucltFifPTYNd7DRNRE56oTdt/pub?output=csv', {
+			Papa.parse('https://docs.google.com/spreadsheets/d/15PkTqG-OoDQrCb_9cLLeQNLEwo5EUZ942YbWdbLWCuI/edit#gid=0', {
 				download: true,
 				header: true,
 				complete: function(results) {

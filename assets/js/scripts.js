@@ -1,5 +1,5 @@
 $(document).ready(function(){
-import Papa from 'papaparse';
+import Papa from '../../papaparse';
 var a = {};
 
 a.settings = {

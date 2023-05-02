@@ -1,4 +1,4 @@
-{
+{	"type": "module",
 	"name": "papaparse",
 	"version": "5.0.2",
 	"description": "Fast and powerful CSV parser for the browser that supports web workers and streaming large files. Converts CSV to JSON and JSON to CSV.",

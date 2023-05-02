@@ -1,5 +1,6 @@
-$(document).ready(function(){
+$(document).ready(
 import Papa from '../../papaparse.min.js';
+function(){
 var a = {};
 
 a.settings = {
